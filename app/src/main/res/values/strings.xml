@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pritrkavanje</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="zvon_1">"A. Bachert, 3400 kg, Ø179.2cm, 1980, B° - 15/100"</string>
+    <string name="zvon_2">"Strojne livarne in tovarne, 1922, 1580 kg, Ø141.2cm, cis' - 13/100"</string>
+    <string name="zvon_3">"Strojne livarne in tovarne, 1922, 879 kg, Ø117.6cm, e' + 21/100"</string>
+    <string name="zvon_4">"Strojne livarne in tovarne, 1922, 616 kg, Ø106cm, fis' - 24/100"</string>
+</resources>
