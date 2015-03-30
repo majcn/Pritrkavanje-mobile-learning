@@ -13,7 +13,7 @@ android {
 
         ndk {
             moduleName "native-audio-jni"
-            ldLibs "OpenSLES", "log"
+            ldLibs "OpenSLES", "log", "android"
         }
     }
 
